@@ -1,0 +1,19 @@
+header {
+    color: mediumpurple;
+    font-size: 100pt;
+    font-family: Chalkboard;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color: seagreen;
+}
+
