@@ -1,19 +1,26 @@
 header {
     color: mediumpurple;
     font-size: 100pt;
-    font-family: Chalkboard;
-    text-align: center;
-}
-
-body {
+    font-family: "sans-serif";
     text-align: center;
 }
 
 h1 {
-    color: blue;
+    color: red;
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+}
+
+body {
+    text-align: left;
 }
 
 p {
-    color: seagreen;
+    color: darkblue;
 }
+
 
